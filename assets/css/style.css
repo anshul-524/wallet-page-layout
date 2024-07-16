@@ -8,13 +8,14 @@
     text-decoration: none !important;
 }
 
-.nft {
+.nav-head{
     color: var(--fc-black);
     font-family: 'Poppins', sans-serif;
     font-size: var(--fs-xl);
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    cursor: pointer;
 }
 
 .feed {
@@ -47,7 +48,12 @@
     background: var(--fc-white);
     padding: 8px 24px;
 }
-
+.hero-sec-img{
+    cursor: pointer;
+}
+.nav-img{
+    cursor: pointer;
+}
 .toggler {
     height: 23px;
     width: 40px;
@@ -55,6 +61,7 @@
     background-color: var(--fc-off-white);
     border: 1px solid var(--fc-light-grey);
     display: flex;
+    cursor: pointer;
 }
 
 .toggler .button {
@@ -142,6 +149,9 @@ margin-top: 150px;
 .bottom-line-1 {
     height: 1px;
     background: var(--fc-gray);
+}
+.logo{
+    cursor: pointer;
 }
 
 .curser-text {
