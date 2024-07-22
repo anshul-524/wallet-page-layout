@@ -238,7 +238,7 @@ header {
     padding: 2px 12px;
 }
 
-.absolute-svg {
+.video-svg {
     position: absolute;
     top: 44%;
     left: 43%;
@@ -271,7 +271,7 @@ header {
 
 }
 
-.absolute-btn {
+.profile-btn {
     position: absolute;
     top: 32px;
     right: 13px;
@@ -498,7 +498,6 @@ header {
 
     .scroll-box {
         height: 590px;
-
 
     }
 }
