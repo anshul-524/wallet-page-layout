@@ -450,13 +450,13 @@ header {
 
 @media (min-width: 400px) {
   .bg-image {
-    min-height: calc(70vh - 96px);
+    min-height: calc(55vh - 96px);
   }
 }
 
 @media (max-width: 576px) {
   .bg-image {
-    min-height: calc(70vh - 96px);
+    min-height: calc(55vh - 96px);
   }
   .profile-btn{
     display: none;
@@ -466,19 +466,19 @@ header {
 
 @media (min-width: 768px) {
   .bg-image {
-    min-height: calc(65vh - 96px);
+    min-height: calc(55vh - 96px);
   }
 }
 
 @media (min-width: 992px) {
   .bg-image {
-    min-height: calc(80vh - 96px);
+    min-height: calc(55vh - 96px);
   }
 }
 
 @media (min-width: 1200px) {
   .bg-image {
-    min-height: calc(85vh - 96px);
+    min-height: calc(55vh - 96px);
   }
 
   .scroll-box {
